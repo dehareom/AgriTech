@@ -321,7 +321,7 @@ body {
   height: 42px;
   width: 300px;
   background-color: #214d28;
-  color: rgba(255, 255, 255, 0.65);
+  color: rgba(255, 255, 255, 0.65 );
 }
 
 /* .emaildiv input:focus {
